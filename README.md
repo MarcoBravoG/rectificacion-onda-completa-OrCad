@@ -1,5 +1,7 @@
 # rectificacion-onda-completa-OrCad
 
+El siguiente proyecto fue desarrollado en OrCad PSpice
+
 Realizar el armado del circuito rectificador de Media Onda y Onda Completa en el software de simulación, con los
 siguientes parámetros:
 𝑹𝑳 = 𝟑𝟑𝟎𝜴
